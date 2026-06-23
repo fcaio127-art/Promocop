@@ -1,0 +1,26 @@
+{
+    "tv 65": {
+        "preco_alvo": 3500
+    },
+    "tv 75": {
+        "preco_alvo": 5000
+    },
+    "rx 7800 xt": {
+        "preco_alvo": 3200
+    },
+    "rx 9070 xt": {
+        "preco_alvo": 4500
+    },
+    "rtx 5070": {
+        "preco_alvo": 4000
+    },
+    "ryzen 5700x": {
+        "preco_alvo": 900
+    },
+    "ssd 1tb nvme": {
+        "preco_alvo": 300
+    },
+    "monitor 144hz": {
+        "preco_alvo": 700
+    }
+}
